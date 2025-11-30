@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+body{
+	background-color:yellow;
+	text-align:center;
+}
+#f1,#f2{
+	text-align:center;
+}
